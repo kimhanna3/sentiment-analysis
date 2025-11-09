@@ -1,0 +1,12 @@
+{
+  "analysis_date": "2025-11-08",
+  "dataset_size": 60,
+  "word2vec": {
+    "accuracy": 0.875,
+    "model_type": "Word2Vec + Random Forest"
+  },
+  "bert": {
+    "accuracy": 0.9231,
+    "model_type": "BERT + Logistic Regression"
+  }
+}
